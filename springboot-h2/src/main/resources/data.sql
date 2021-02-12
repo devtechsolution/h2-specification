@@ -1,0 +1,5 @@
+insert into product (id, brand, category, color, price,size) values (1, 'Siyaram', 'Shirt' ,'White', 290.0, 36)
+insert into product (id, brand, category, color, price,size) values (2, 'Siyaram', 'Shirt' ,'Pink', 256.0, 34)
+insert into product (id, brand, category, color, price,size) values (3, 'Siyaram', 'Pant' ,'White', 209.0, 3)
+insert into product (id, brand, category, color, price,size) values (4, 'Siyaram', 'Shirt' ,'White', 109.0, 3)
+insert into product (id, brand, category, color, price,size) values (5, 'Siyaram', 'Suit' ,'White', 129.0, 3)
